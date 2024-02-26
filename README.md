@@ -2,21 +2,21 @@
 
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/akashsharma08/akashsharma08/blob/main/assets/side.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashsharma08&label=Profile%20views&color=0e75b6&style=flat" alt="akashsharma08" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/simplified_learner](https://linktr.ee/simplified_learner)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://3d-portfolio-hu33.vercel.app/)
 
-- ⚡ Fun fact **I am funny😅**
+- ⚡ **I am Funny - submit your own, if they make me laugh I'll merge them.**
 
 <h3 align="left">Connect with me:</h3>
 <div style="display:flex; " >
-<img src="https://github.com/akashsharma08/akashsharma08/blob/main/assets/linkedin.gif" width="100">
-<img src="https://github.com/akashsharma08/akashsharma08/blob/main/assets/whatsapp.gif" width="100">
-<img src="https://github.com/akashsharma08/akashsharma08/blob/main/assets/insta.gif" width="100">
-<img src="https://github.com/akashsharma08/akashsharma08/blob/main/assets/discord.gif" width="100">
-
+  <a href="https://www.linkedin.com/in/akashsharma08/"><img src="https://github.com/akashsharma08/akashsharma08/blob/main/assets/linkedin.gif" width="100"></a>
+  <a href="https://wa.me/6397214461?text=Hey%20dude,%20I%20came%20to%20know%20about%20your%20profile%20on%20GitHub%20and%20want%20to%20have%20a%20small%20conversation%20with%20you!!">
+  <img src="https://github.com/akashsharma08/akashsharma08/blob/main/assets/whatsapp.gif" width="100"></a>
+  <a href="https://www.instagram.com/_polonium8_/"><img src="https://github.com/akashsharma08/akashsharma08/blob/main/assets/insta.gif" width="100"></a>
+  <a href="https://discord.gg/B9pRD3uW"><img src="https://github.com/akashsharma08/akashsharma08/blob/main/assets/discord.gif" width="100"></a>
 </div>
 
 <br><br>
@@ -48,10 +48,10 @@
 <br><br>    
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
+<br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-pmishra&show_icons=true&locale=en&layout=compact" alt="ashutosh-pmishra" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashsharma08&show_icons=true&locale=en&layout=compact" alt="akashsharma08" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh-pmishra&show_icons=true&locale=en" alt="ashutosh-pmishra" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashsharma08&show_icons=true&locale=en" alt="akashsharma08" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-pmishra&" alt="ashutosh-pmishra" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashsharma08&" alt="akashsharma08" /></p>
