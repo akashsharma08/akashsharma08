@@ -26,33 +26,33 @@
 <h3 style="text-align: left;">Languages and Tools:</h3>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;" class="languages-tools">
-    <img style="margin: 20px; width: 50px; height: 50px; filter: drop-shadow(0px 0px 10px lightblue);" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="Babel">
-    <img style="margin: 20px; width: 50px; height: 50px; filter: drop-shadow(0px 0px 10px lightblue);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap">
-    <img style="margin: 20px; width: 50px; height: 50px; filter: drop-shadow(0px 0px 10px lightblue);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3">
-    <img style="margin: 20px; width: 50px; height: 50px; filter: drop-shadow(0px 0px 10px lightblue);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker">
-    <img style="margin: 20px; width: 50px; height: 50px; filter: drop-shadow(0px 0px 10px lightblue);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron">
-    <img style="margin: 20px; width: 50px; height: 50px; filter: drop-shadow(0px 0px 10px lightblue);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ember/ember-original-wordmark.svg" alt="Ember">
-    <img style="margin: 20px; width: 50px; height: 50px; filter: drop-shadow(0px 0px 10px lightblue);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express">
-    <img style="margin: 20px; width: 50px; height: 50px; filter: drop-shadow(0px 0px 10px lightblue);" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git">
-    <img style="margin: 20px; width: 50px; height: 50px; filter: drop-shadow(0px 0px 10px lightblue);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5">
-    <img style="margin: 20px; width: 50px; height: 50px; filter: drop-shadow(0px 0px 10px lightblue);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java">
-    <img style="margin: 20px; width: 50px; height: 50px; filter: drop-shadow(0px 0px 10px lightblue);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript">
-    <img style="margin: 20px; width: 50px; height: 50px; filter: drop-shadow(0px 0px 10px lightblue);" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka">
-    <img style="margin: 20px; width: 50px; height: 50px; filter: drop-shadow(0px 0px 10px lightblue);" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes">
-    <img style="margin: 20px; width: 50px; height: 50px; filter: drop-shadow(0px 0px 10px lightblue);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux">
-    <img style="margin: 20px; width: 50px; height: 50px; filter: drop-shadow(0px 0px 10px lightblue);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB">
-    <img style="margin: 20px; width: 50px; height: 50px; filter: drop-shadow(0px 0px 10px lightblue);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL">
-    <img style="margin: 20px; width: 50px; height: 50px; filter: drop-shadow(0px 0px 10px lightblue);" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js">
-    <img style="margin: 20px; width: 50px; height: 50px; filter: drop-shadow(0px 0px 10px lightblue);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js">
-    <img style="margin: 20px; width: 50px; height: 50px; filter: drop-shadow(0px 0px 10px lightblue);" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="Nuxt.js">
-    <img style="margin: 20px; width: 50px; height: 50px; filter: drop-shadow(0px 0px 10px lightblue);" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman">
-    <img style="margin: 20px; width: 50px; height: 50px; filter: drop-shadow(0px 0px 10px lightblue);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python">
-    <img style="margin: 20px; width: 50px; height: 50px; filter: drop-shadow(0px 0px 10px lightblue);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React">
-    <img style="margin: 20px; width: 50px; height: 50px; filter: drop-shadow(0px 0px 10px lightblue);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux">
-    <img style="margin: 20px; width: 50px; height: 50px; filter: drop-shadow(0px 0px 10px lightblue);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass">
-    <img style="margin: 20px; width: 50px; height: 50px; filter: drop-shadow(0px 0px 10px lightblue);" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS">
-    <img style="margin: 20px; width: 50px; height: 50px; filter: drop-shadow(0px 0px 10px lightblue);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript">
-    <img style="margin: 20px; width: 50px; height: 50px; filter: drop-shadow(0px 0px 10px lightblue);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js">
+    <img style="margin: 20px; width: 50px; height: 50px; filter: drop-shadow(0px 0px 10px blue);" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="Babel">
+    <img style="margin: 20px; width: 50px; height: 50px; filter: drop-shadow(0px 0px 10px blue);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap">
+    <img style="margin: 20px; width: 50px; height: 50px; filter: drop-shadow(0px 0px 10px blue);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3">
+    <img style="margin: 20px; width: 50px; height: 50px; filter: drop-shadow(0px 0px 10px blue);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker">
+    <img style="margin: 20px; width: 50px; height: 50px; filter: drop-shadow(0px 0px 10px blue);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron">
+    <img style="margin: 20px; width: 50px; height: 50px; filter: drop-shadow(0px 0px 10px blue);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ember/ember-original-wordmark.svg" alt="Ember">
+    <img style="margin: 20px; width: 50px; height: 50px; filter: drop-shadow(0px 0px 10px blue);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express">
+    <img style="margin: 20px; width: 50px; height: 50px; filter: drop-shadow(0px 0px 10px blue);" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git">
+    <img style="margin: 20px; width: 50px; height: 50px; filter: drop-shadow(0px 0px 10px blue);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5">
+    <img style="margin: 20px; width: 50px; height: 50px; filter: drop-shadow(0px 0px 10px blue);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java">
+    <img style="margin: 20px; width: 50px; height: 50px; filter: drop-shadow(0px 0px 10px blue);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript">
+    <img style="margin: 20px; width: 50px; height: 50px; filter: drop-shadow(0px 0px 10px blue);" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka">
+    <img style="margin: 20px; width: 50px; height: 50px; filter: drop-shadow(0px 0px 10px blue);" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes">
+    <img style="margin: 20px; width: 50px; height: 50px; filter: drop-shadow(0px 0px 10px blue);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux">
+    <img style="margin: 20px; width: 50px; height: 50px; filter: drop-shadow(0px 0px 10px blue);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB">
+    <img style="margin: 20px; width: 50px; height: 50px; filter: drop-shadow(0px 0px 10px blue);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL">
+    <img style="margin: 20px; width: 50px; height: 50px; filter: drop-shadow(0px 0px 10px blue);" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js">
+    <img style="margin: 20px; width: 50px; height: 50px; filter: drop-shadow(0px 0px 10px blue);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js">
+    <img style="margin: 20px; width: 50px; height: 50px; filter: drop-shadow(0px 0px 10px blue);" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="Nuxt.js">
+    <img style="margin: 20px; width: 50px; height: 50px; filter: drop-shadow(0px 0px 10px blue);" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman">
+    <img style="margin: 20px; width: 50px; height: 50px; filter: drop-shadow(0px 0px 10px blue);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python">
+    <img style="margin: 20px; width: 50px; height: 50px; filter: drop-shadow(0px 0px 10px blue);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React">
+    <img style="margin: 20px; width: 50px; height: 50px; filter: drop-shadow(0px 0px 10px blue);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux">
+    <img style="margin: 20px; width: 50px; height: 50px; filter: drop-shadow(0px 0px 10px blue);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass">
+    <img style="margin: 20px; width: 50px; height: 50px; filter: drop-shadow(0px 0px 10px blue);" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS">
+    <img style="margin: 20px; width: 50px; height: 50px; filter: drop-shadow(0px 0px 10px blue);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript">
+    <img style="margin: 20px; width: 50px; height: 50px; filter: drop-shadow(0px 0px 10px blue);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js">
 </div>
 
 <p><img class="stats" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashsharma08&show_icons=true&locale=en&layout=compact" alt="akashsharma08" style="margin-top: 20px;"></p>
