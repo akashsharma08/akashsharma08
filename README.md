@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/akashsharma08/akashsharma08/blob/main/assets/side.gif">
+<img align="right" alt="coding" width="450" src="https://github.com/akashsharma08/akashsharma08/blob/main/assets/side.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashsharma08&label=Profile%20views&color=0e75b6&style=flat" alt="akashsharma08" /> </p>
 
