@@ -50,7 +50,7 @@
 <h3 align="left">Support:</h3>
 <br><br>
 
-<div style="display: flex; justify-content:center; width:100%">
+<div style="display: flex; justify-content:center; align-items:center; width:100%">
     <p style="flex: 50%; padding-right: 5px;">
         <img align="left"  style="height: 210px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashsharma08&show_icons=true&locale=en&layout=compact" alt="akashsharma08" />
     </p>
