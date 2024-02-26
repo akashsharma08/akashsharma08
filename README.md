@@ -50,8 +50,16 @@
 <h3 align="left">Support:</h3>
 <br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashsharma08&show_icons=true&locale=en&layout=compact" alt="akashsharma08" /></p>
+<div style="display: flex;">
+    <p style="flex: 50%; padding-right: 5px;">
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashsharma08&show_icons=true&locale=en&layout=compact" alt="akashsharma08" />
+    </p>
+    <p style="flex: 50%; padding-left: 5px;">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=akashsharma08&show_icons=true&locale=en" alt="akashsharma08" />
+    </p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashsharma08&show_icons=true&locale=en" alt="akashsharma08" /></p>
+<p style="width: 100%; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashsharma08&" alt="akashsharma08" style="width: 100%;" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashsharma08&" alt="akashsharma08" /></p>
