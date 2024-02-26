@@ -52,10 +52,10 @@
 
 <div style="display: flex; justify-content:center; align-items:center; width:100%">
     <p style="flex: 50%; padding-right: 5px;">
-        <img align="left"  style="height: 210px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashsharma08&show_icons=true&locale=en&layout=compact" alt="akashsharma08" />
+        <img align="left"  style="height: 195px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashsharma08&show_icons=true&locale=en&layout=compact" alt="akashsharma08" />
     </p>
     <p style="flex: 50%;   padding-left: 5px;">
-        <img align="center" style="height: 210px;" src="https://github-readme-stats.vercel.app/api?username=akashsharma08&show_icons=true&locale=en" alt="akashsharma08" />
+        <img align="center" style="height: 195px;" src="https://github-readme-stats.vercel.app/api?username=akashsharma08&show_icons=true&locale=en" alt="akashsharma08" />
     </p>
 </div>
 
