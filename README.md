@@ -1,4 +1,4 @@
-![logo](https://github.com/akashsharma08/akashsharma08/blob/main/Banner.png)
+![logo](https://github.com/akashsharma08/akashsharma08/blob/main/assets/Banner.png)
 
 <h3 align="center">A passionate Software Engineer from India</h3>
 
@@ -12,10 +12,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <div style="display:flex; " >
-<img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/235294008-ed8de58b-d4d0-4790-aa81-a39fdc8a1e50.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/235294009-98ca7572-795f-4056-b2c1-ccbde3f2982e.gif" width="100">
+<img src="https://github.com/akashsharma08/akashsharma08/blob/main/assets/linkedin.gif" width="100">
+<img src="https://github.com/akashsharma08/akashsharma08/blob/main/assets/whatsapp.gif" width="100">
+<img src="https://github.com/akashsharma08/akashsharma08/blob/main/assets/insta.gif" width="100">
+<img src="https://github.com/akashsharma08/akashsharma08/blob/main/assets/discord.gif" width="100">
 
 </div>
 
