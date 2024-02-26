@@ -50,13 +50,13 @@
 <h3 align="left">Support:</h3>
 <br><br>
 
-<div style="display: flex; width: 100%;">
-    <div style="flex: 1; padding-right: 5px;">
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashsharma08&show_icons=true&locale=en&layout=compact" alt="akashsharma08" style="width: 50%; height: auto;">
-    </div>
-    <div style="flex: 1; padding-left: 5px;">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=akashsharma08&show_icons=true&locale=en" alt="akashsharma08" style="width: 50%; height: auto;">
-    </div>
+<div style="display: flex; width:100%">
+    <p style="flex: 50%; padding-right: 5px;">
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashsharma08&show_icons=true&locale=en&layout=compact" alt="akashsharma08" />
+    </p>
+    <p style="flex: 50%; padding-left: 5px;">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=akashsharma08&show_icons=true&locale=en" alt="akashsharma08" />
+    </p>
 </div>
 
 
